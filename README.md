@@ -1,2 +1,2 @@
 # Memegenerator
-Created with CodeSandbox
+Created with React
