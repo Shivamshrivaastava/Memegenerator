@@ -1,2 +1,2 @@
-# Memegenerator
+
 Created with React
